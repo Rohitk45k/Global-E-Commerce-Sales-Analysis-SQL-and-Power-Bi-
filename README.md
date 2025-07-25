@@ -39,7 +39,13 @@ https://github.com/Rohitk45k/Global-E-Commerce-Sales-Analysis-SQL-and-Power-Bi-/
 - Order By Country
 - Top 10 Best Selling Product
 - Top sell By product
-- And Table for show name, total Order and total Spent
+- And Table for show name, total Order and total Spent.
+
+
+**Dashboards Screenshot**
+https://github.com/Rohitk45k/Global-E-Commerce-Sales-Analysis-SQL-and-Power-Bi-/blob/main/Screenshot%202025-07-25%20163854.png
+
+
 
 **Tools Used**
 
