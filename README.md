@@ -2,7 +2,9 @@
 
 This project showcases a complete end-to-end data analysis pipeline using SQL and Power BI. It analyzes global e-commerce sales data across multiple dimensions — including customers, products, categories, countries, and time trends.
 
+**SQL projects Link**
 
+https://github.com/Rohitk45k/Global-E-Commerce-Sales-Analysis-SQL-and-Power-Bi-/blob/main/global_ecommerce_salesPresentation.pdf
 
 
 **SQl analysis**
@@ -21,6 +23,9 @@ This project showcases a complete end-to-end data analysis pipeline using SQL an
 **12**.What is the month-over-month sales growth rate? 
 **13**.On which weekdays are most orders placed? 
 **14**.Which product category is growing the fastest in monthly sales?
+
+
+
 
 
 
